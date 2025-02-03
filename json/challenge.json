@@ -1,0 +1,14 @@
+{
+    "captchaToken": "",
+    "unifiedCaptchaId": "32190a94-efa2-4d8d-96e3-fd75f3f3cdbc",
+    "dataExchangeBlob": "GCDBqaySv+uhTzP1.ypDIKGJOO0Dk87V7uwjjcQP0nEWbRQoEwXLD9OTLbu8ICB+HxHOCWsAmvx9y8vnkAQi4iUHNfdrS72lK1b1+J8JDujo3BhNqk1EdpDnXclp2VF5Gb16ez0rAg1NTxOcmN3WZ2cd+mc3l/eKEqFgqaSi50gbDj2+YTilAsAGjeVtDo2u1pShX6vhC1HWFk9lbeCEVIKuJU3vwNe6fVN/jmNBPZEsr06jCrltqJPumyf/rFuF3LHHdXvpF+45GYry31OwAerhNA5GB9cTcTr23R4PnCN75jw3MqqKykbuVgqO8tePCmkUxUzvSB72Qn/pmNl+6JyNEFJ/eu+WDiZGpVmAsoFx6V4LTEBZVbCgyJRv1q194ykWJvBuPwCeGV2croKR4bQ3XbO61/yQMuZqEtbsAWhlld8sn1gReoA+dR6+GFvxiMagcAKWgdobj",
+    "actionType": "Signup",
+    "requestPath": "/v2/signup",
+    "requestMethod": "POST",
+    "sharedParameters": {
+        "shouldAnalyze": false,
+        "genericChallengeId": "32190a94-efa2-4d8d-96e3-fd75f3f3cdbc",
+        "useContinueMode": false,
+        "renderNativeChallenge": false
+    }
+}
