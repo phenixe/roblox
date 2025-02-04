@@ -106,3 +106,12 @@ We can see `dataExchangeBlob` and `unifiedCaptchaId`.
 PS: If you have a funcaptcha solver here is the Roblox Funcaptcha Id: `A2A14B1D-1AF3-C791-9BBC-EE33CC7A0A6F` (he can be found by intercepting this requests:
 <img src="image.png" />
 )
+
+#
+
+# Thanks
+
+Thansk to:
+
+- Hartman : gave me some tips for funcap.
+- Slothh : gave me some tips for roblox.
