@@ -2,7 +2,7 @@ from re import findall
 from time import time
 from json import loads, dumps
 from base64 import b64encode, b64decode
-from random import choice
+from random import choice, randint
 from tls_client import Session
 from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives import hashes, serialization
@@ -140,7 +140,7 @@ class Roblox:
             json = {
                 "username": self.infos["username"],
                 "password": self.infos["password"],
-                "birthday": "1998-12-22T23:00:00.000Z",
+                "birthday": f"{randint(1967, 2000)}-{randint(1, 12)}-{randint(1, 30)}T23:00:00.000Z",
                 "gender": choice([1, 2]),
                 "isTosAgreementBoxChecked": True,
                 "agreementIds": [
